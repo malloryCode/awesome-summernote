@@ -78,6 +78,8 @@ This curated list is on very early stage. So, let's make it together!
    - Adds a button to the image popover to edit title and alt attributes.
  - [summernote-list-styles](https://github.com/tylerecouture/summernote-list-styles)
    - Adds a toolbar dropdown menu to change the number/bullet style of HTML lists.
+ - [summernote-ext-on-paste](https://github.com/malloryCode/summernote-ext-on-paste)
+   - Automatically processes pasted text, allowing/removing tags and attributes as configured. Also wraps text nodes in p tags.
  - [summernote-pagebreak](https://github.com/DiemenDesign/summernote-pagebreak)
    - Visually add Page-Breaks to editor content.
  - [summernote-paper-size](https://github.com/DiemenDesign/summernote-paper-size)
